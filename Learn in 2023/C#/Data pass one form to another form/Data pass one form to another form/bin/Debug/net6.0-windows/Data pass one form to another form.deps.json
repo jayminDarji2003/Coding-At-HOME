@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Data pass one form to another form/1.0.0": {
+        "runtime": {
+          "Data pass one form to another form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data pass one form to another form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

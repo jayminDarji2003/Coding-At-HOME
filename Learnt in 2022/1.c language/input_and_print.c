@@ -1,0 +1,10 @@
+// This is the program to take input and print on the console
+#include<stdio.h>
+
+int main(){
+    int age;
+    printf("Enter your age ?\n");
+    scanf("%d",&age);
+    printf("Your age is : %d",age);
+    return 0;
+}

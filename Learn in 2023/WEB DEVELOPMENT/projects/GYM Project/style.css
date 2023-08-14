@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+    /* CSS reset */
+
+
+*{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+     font-family: 'Playfair Display', serif;
+}
+
+body{
+    background: url(img/background_2.jpg);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white;
+}
+
+
+.left{
+    /* border: 1px solid red; */
+    display: inline-block;
+    position: absolute;
+    left: 40px;
+    top: 20px;
+}
+
+.left img{
+    width: 52px;
+    /* height: 35px; */
+    filter: invert(100%);
+}
+
+
+.mid{
+    display: block;
+    width: 36%;
+    margin: 10px auto;
+    padding: 25px;
+}
+
+.navbar li{
+    list-style: none;
+    display: inline-block;
+    /* margin-left:20px; */
+    font-size: 17px;
+}
+
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 17px;
+}
+.navbar li a:hover{
+    color: gray;
+}
+
+.navbar li a.active{
+    color: gray;
+    text-decoration: underline;
+}
+
+
+
+.right{
+    /* border: 1px solid rgb(196, 104, 162); */
+    display: inline-block;
+    position: absolute;
+    right: 40px;
+    top: 20px;
+}    
+
+.btn{
+    margin: 0px 9px;
+    /* color: white; */
+    background-color:transparent;
+    border-radius:11px;
+    font-weight: bold;
+    border: 1px solid white;
+    padding: 7px;
+
+}
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.btn a:hover{
+    color: gray;
+}
+
+
+
+.container{
+    width: 33%;
+    border: 2px solid white ;
+    border-radius: 10px;
+    margin: 675px 52px;
+    padding: 34px 80px;
+}
+
+.container h1{
+    text-align: center;
+    margin-bottom: 15px;
+    /* text-decoration: underline; */
+}
+
+.container input{
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+}
+
+.container button{
+   margin-top: 13px;
+}
+
+

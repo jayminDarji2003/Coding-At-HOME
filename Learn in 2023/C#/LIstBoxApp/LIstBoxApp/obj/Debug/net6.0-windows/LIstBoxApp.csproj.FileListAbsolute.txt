@@ -1,0 +1,17 @@
+D:\home\C#\LIstBoxApp\LIstBoxApp\bin\Debug\net6.0-windows\LIstBoxApp.exe
+D:\home\C#\LIstBoxApp\LIstBoxApp\bin\Debug\net6.0-windows\LIstBoxApp.deps.json
+D:\home\C#\LIstBoxApp\LIstBoxApp\bin\Debug\net6.0-windows\LIstBoxApp.runtimeconfig.json
+D:\home\C#\LIstBoxApp\LIstBoxApp\bin\Debug\net6.0-windows\LIstBoxApp.dll
+D:\home\C#\LIstBoxApp\LIstBoxApp\bin\Debug\net6.0-windows\LIstBoxApp.pdb
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.csproj.AssemblyReference.cache
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.Form1.resources
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.csproj.GenerateResource.cache
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.AssemblyInfoInputs.cache
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.AssemblyInfo.cs
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.csproj.CoreCompileInputs.cache
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.dll
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\refint\LIstBoxApp.dll
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.pdb
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\LIstBoxApp.genruntimeconfig.cache
+D:\home\C#\LIstBoxApp\LIstBoxApp\obj\Debug\net6.0-windows\ref\LIstBoxApp.dll

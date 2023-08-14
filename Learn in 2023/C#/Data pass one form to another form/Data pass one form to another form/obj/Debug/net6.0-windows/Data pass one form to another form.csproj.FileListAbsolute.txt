@@ -1,0 +1,18 @@
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\bin\Debug\net6.0-windows\Data pass one form to another form.exe
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\bin\Debug\net6.0-windows\Data pass one form to another form.deps.json
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\bin\Debug\net6.0-windows\Data pass one form to another form.runtimeconfig.json
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\bin\Debug\net6.0-windows\Data pass one form to another form.dll
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\bin\Debug\net6.0-windows\Data pass one form to another form.pdb
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.csproj.AssemblyReference.cache
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data_pass_one_form_to_another_form.Form1.resources
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data_pass_one_form_to_another_form.Form2.resources
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.csproj.GenerateResource.cache
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.AssemblyInfoInputs.cache
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.AssemblyInfo.cs
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.csproj.CoreCompileInputs.cache
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.dll
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\refint\Data pass one form to another form.dll
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.pdb
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\Data pass one form to another form.genruntimeconfig.cache
+D:\home\C#\Data pass one form to another form\Data pass one form to another form\obj\Debug\net6.0-windows\ref\Data pass one form to another form.dll

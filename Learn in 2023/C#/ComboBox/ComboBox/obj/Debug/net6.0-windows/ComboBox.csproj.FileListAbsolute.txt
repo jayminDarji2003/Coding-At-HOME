@@ -1,0 +1,17 @@
+D:\home\C#\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.exe
+D:\home\C#\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.deps.json
+D:\home\C#\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.runtimeconfig.json
+D:\home\C#\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.dll
+D:\home\C#\ComboBox\ComboBox\bin\Debug\net6.0-windows\ComboBox.pdb
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.csproj.AssemblyReference.cache
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.myComboBox.resources
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.csproj.GenerateResource.cache
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.AssemblyInfoInputs.cache
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.AssemblyInfo.cs
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.csproj.CoreCompileInputs.cache
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.dll
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\refint\ComboBox.dll
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.pdb
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ComboBox.genruntimeconfig.cache
+D:\home\C#\ComboBox\ComboBox\obj\Debug\net6.0-windows\ref\ComboBox.dll

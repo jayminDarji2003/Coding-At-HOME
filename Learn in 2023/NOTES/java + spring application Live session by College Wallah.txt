@@ -1,0 +1,28 @@
+-> It's a live session (master class) on JAVA / SPRING FRAMWORK
+
+-> Prerequisite is :- Hava a knowledge of JAVA language.
+
+#best way to learn any topic
+	-> 1. what?    // what is the topic we want to learn.
+	-> 2. why?     // why we want to learn that topic.
+	-> 3. how?     // how we will learn this topic.
+
+
+#Spring 
+	-> spring is a FRAMWORK of JAVA.
+	-> More functionality given to the JAVA.
+	-> In the industry the people working on a FRAMWORK not in core language.
+
+#Node.js
+	-> node.js is a RUN TIME INVIRONMENT.
+	ex. if the javascript code want to execute then they must have invironment.
+
+	let's take ex.
+		if a pearson want to live. They need (H2O , O2, TEMPRATURE). Some things must be have to live a life.
+			same as a javascript code want to execute then it must have some invironment it's called Node.js.
+
+
+#Relationships
+	two types
+		1. Loosely coupled    // when they are not married and just dating and loving and all things.
+		2. Tightly coupled    // when they are married

@@ -1,0 +1,17 @@
+D:\home\C#\TEXTBOX_VALIDATION\bin\Debug\net6.0-windows\TEXTBOX_VALIDATION.exe
+D:\home\C#\TEXTBOX_VALIDATION\bin\Debug\net6.0-windows\TEXTBOX_VALIDATION.deps.json
+D:\home\C#\TEXTBOX_VALIDATION\bin\Debug\net6.0-windows\TEXTBOX_VALIDATION.runtimeconfig.json
+D:\home\C#\TEXTBOX_VALIDATION\bin\Debug\net6.0-windows\TEXTBOX_VALIDATION.dll
+D:\home\C#\TEXTBOX_VALIDATION\bin\Debug\net6.0-windows\TEXTBOX_VALIDATION.pdb
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.csproj.AssemblyReference.cache
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.Form1.resources
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.csproj.GenerateResource.cache
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.AssemblyInfoInputs.cache
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.AssemblyInfo.cs
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.csproj.CoreCompileInputs.cache
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.dll
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\refint\TEXTBOX_VALIDATION.dll
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.pdb
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\TEXTBOX_VALIDATION.genruntimeconfig.cache
+D:\home\C#\TEXTBOX_VALIDATION\obj\Debug\net6.0-windows\ref\TEXTBOX_VALIDATION.dll

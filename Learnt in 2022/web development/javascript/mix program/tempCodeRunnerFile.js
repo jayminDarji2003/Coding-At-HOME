@@ -1,0 +1,1 @@
+console.log(aa.concat(" is a friend of ",b));

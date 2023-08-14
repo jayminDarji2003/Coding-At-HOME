@@ -1,0 +1,46 @@
+*{
+     margin:0;
+     padding:0;
+     box-sizing:border-box;
+}
+
+h3{
+    text-align: center;
+    color: black;
+    margin-top: 2rem;
+}
+.grid{
+    display: flex;
+    gap: 1rem;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.grid button a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn {
+    padding: 1rem 2rem;
+    border-radius: 1rem;
+    color: #fff;
+    background: #00b8b8;
+    font-size: 1rem;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+}
+
+.btn:hover {
+    background: #26ebeb;
+}
+
+
+@media(max-width:768px){
+    .grid{
+        flex-direction: column;
+    }
+}

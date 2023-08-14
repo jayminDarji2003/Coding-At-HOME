@@ -1,0 +1,26 @@
+    // For mobile
+@media only screen and (max-width:600px)
+{
+    // style
+}
+
+
+    // For tablet
+@media only screen and (max-width:768px)
+{
+    // style
+}
+
+
+    // For laptop
+@media only screen and (max-width:992px)
+{
+    // style
+}
+
+
+    // For larger
+@media only screen and (max-width:1200px)
+{
+    // style
+}

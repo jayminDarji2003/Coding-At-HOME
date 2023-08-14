@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Element only navigation</title>
+
+    <style>
+
+        *{
+             margin:0;
+             padding:0;
+             box-sizing:border-box;
+        }
+
+        ul{
+            display:  flex;
+            background-color: gray;
+            padding: 10px;
+        }
+        li{
+            list-style: none;
+            margin: 0 30px;
+        }
+    </style>
+
+</head>
+<body>
+
+    <!-- We are making portfolio website -->
+
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact us</li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <p>This is a paragraph.</p>
+    </div>
+
+
+
+
+    
+
+    <script>
+
+        const changeBgRed = () =>{
+            document.body.firstElementChild.style.background = "red";
+        }
+
+
+
+        let b = document.body;
+        console.log("First child of b is : ",b.firstChild);
+        console.log("First child of b is : ",b.firstElementChild);
+    </script>
+</body>
+</html>
